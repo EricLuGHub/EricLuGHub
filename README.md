@@ -21,8 +21,8 @@ I’ve built observability for AI systems processing 10K+ traces per hour; deplo
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [Agent Haderach](https://github.com/EricLuGHub/openAI-hackathon) | A repository-scoped memory service that helps coding agents carry useful, evidence-backed context between tasks. | TypeScript, MCP, Hono, Next.js, PostgreSQL |
-| [Systems Simulation Lab](https://github.com/EricLuGHub/imcprosp4) | A modular event-driven simulation and evaluation environment built to turn dense streams of data into measurable experiments. | Python, NumPy, pandas |
-| [Software Quality Lab](https://github.com/EricLuGHub/429proj-1) | Automated verification across API behaviour, edge cases, and end-to-end acceptance scenarios. | Python, pytest, Behave |
+| Systems Simulation Lab | A modular event-driven simulation and evaluation environment built to turn dense streams of data into measurable experiments. | Python, NumPy, pandas |
+| Software Quality Lab | Automated verification across API behaviour, edge cases, and end-to-end acceptance scenarios. | Python, pytest, Behave |
 
 ### A little more context
 
