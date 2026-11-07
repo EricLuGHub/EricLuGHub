@@ -80,7 +80,3 @@ AI infrastructure, automation, back-end engineering, big data, database systems,
 | [Interactive Reasoning Puzzles](https://github.com/EricLuGHub/interactive-reasoning-puzzles) | A browser collection of timed logic, memory, and decision-making exercises. |
 | [Parallax: Cross-Venue Data Monitor](https://github.com/EricLuGHub/parallax-data-monitor) | Data collection, route verification, and paper-market simulation. |
 | [Election Forecasting Research](https://github.com/EricLuGHub/election-forecasting-research) | Research and simulation tooling for public election forecast markets. |
-
-## Currently
-
-Turning a pile of projects and experiments into cleaner things people can actually explore.
