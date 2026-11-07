@@ -10,22 +10,22 @@ CS at McGill. Lately: infrastructure, data-heavy services, and experiments that 
 
 ## Things I'm into
 
-AI infrastructure · automation · back-end engineering · big data · database systems · distributed storage · infrastructure software · microservices · optimization · observability · production reliability
+AI infrastructure, automation, back-end engineering, big data, database systems, distributed storage, infrastructure software, microservices, optimization, observability, and production reliability
 
 ## Experience
 
-- **Autodesk** — Software Engineering Intern, Distributed Systems
-- **Autodesk** — Machine Learning Engineering Intern, AI Infrastructure
-- **Smartbills** — Software Engineering Intern, Microservices
-- **Tradefan** — Software Engineering Intern, Event-Driven Data Systems
+- **Autodesk:** Software Engineering Intern, Distributed Systems
+- **Autodesk:** Machine Learning Engineering Intern, AI Infrastructure
+- **Smartbills:** Software Engineering Intern, Microservices
+- **Tradefan:** Software Engineering Intern, Event-Driven Data Systems
 
 ## Stack I reach for
 
-**Languages:** Python · Java · TypeScript · C# · SQL
+**Languages:** Python, Java, TypeScript, C#, SQL
 
-**Systems & cloud:** AWS · Docker · Kubernetes · PostgreSQL · Spring Boot · .NET
+**Systems & cloud:** AWS, Docker, Kubernetes, PostgreSQL, Spring Boot, .NET
 
-**Observability:** OpenTelemetry · Prometheus · Grafana · Dynatrace · Splunk · Jaeger
+**Observability:** OpenTelemetry, Prometheus, Grafana, Dynatrace, Splunk, Jaeger
 
 ## Things I've made
 
