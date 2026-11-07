@@ -1,0 +1,19 @@
+README.md
+  s_78e905ea4bc1a6::t_2a4229f2f75e00 24-33,37-48,52-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0e1f427e2492b677828c13c0d8754a39ce25e455",
+  "prompts": {},
+  "sessions": {
+    "s_78e905ea4bc1a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b231-b6bd-7841-aed2-68064f98047c",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "ericlu <erickandmorty2013@gmail.com>"
+    }
+  }
+}
