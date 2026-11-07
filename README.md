@@ -2,8 +2,6 @@
 
 # Hey, I'm Eric 👋
 
-I build systems, pull them apart, and occasionally leave notes about what I found.
-
 </div>
 
 CS at McGill. Lately: infrastructure, data-heavy services, and experiments that are fun or hard enough to be worth it.
